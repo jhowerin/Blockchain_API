@@ -35,22 +35,6 @@ Installing Node and NPM is pretty straightforward using the installer package av
 ```
 npm init
 ```
-- Install crypto-js with --save flag to save dependency to our package.json file
-```
-npm install crypto-js --save
-```
-- Install level with --save flag
-```
-npm install level --save
-```
-- Install express with --save flag
-```
-npm install express --save
-```
-- Install body-parser with --save flag
-```
-npm install body-parser --save
-```
 
 ## Testing
 
