@@ -56,6 +56,6 @@ npm install body-parser --save
 
 ### Test by running program
 1: Move to directory with simpleChain.js  
-2: Run simpleChain.js by entering> "node simpleChain.js"<br>
+2: Run simpleChain.js by entering> "npm start" or "node index.js"<br>
 3: 10 blocks are automatically created each time simpleChain is run.  
 4: The blocks can be tested with the API calls defined above
